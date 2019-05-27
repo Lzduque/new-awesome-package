@@ -1,0 +1,11 @@
+{
+  "name": "new-awesome-package",
+  "version": "0.1.8",
+  "description": "This is going to be an awesome package when i figure out what to do!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lzduque",
+  "license": "ISC"
+}
